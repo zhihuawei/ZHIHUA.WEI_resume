@@ -48,6 +48,7 @@ if (($_POST['email'] == "") || ($_POST['name'] == "") || ($_POST['message'] == "
             die ('Illegal Input.  Go back and try again.  Your message has not been sent.');
         }
     }
+	
     //拼接header
     $headers = "MIME-Version: 1.0\r\nContent-type: text/html; charset=iso-8859-1\r\n";
     $headers .= "From: \"" . $_POST['name'] . "\" <" . $_POST['email'] . ">\r\n";
