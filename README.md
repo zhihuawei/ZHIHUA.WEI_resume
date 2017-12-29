@@ -29,3 +29,8 @@ git clone https://gitee.com/zhihua_wei/ZHIHUA.WEI_resume.git
 ### 英文版-PC端
 
 ![](assets/PC_RESUME-ZHIHUA·WEI_en.png)
+
+### 英文版-移动端
+
+![](assets/MOBILE_RESUME-ZHIHUA·WEI_en.png)
+
