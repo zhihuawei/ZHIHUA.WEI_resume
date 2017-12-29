@@ -38,5 +38,5 @@ git clone https://gitee.com/zhihua_wei/ZHIHUA.WEI_resume.git
 ### 中文版-移动端
 移动端就不展示了，图片太长，大家看着不舒服。如果大家很想看下效果图就访问一下我的在线演示地址就好了：[RESUME-ZHIHUA·WEI](http://resume.zhihuawei.xyz/)
 
-或者大家把项目下载下来，查看assets文件夹下的MOBILE_RESUME-ZHIHUA·WEI_en.png和MOBILE_RESUME-ZHIHUA·WEI_ch.pngw图片文件。
+或者大家把项目下载下来，查看assets文件夹下的MOBILE_RESUME-ZHIHUA·WEI_en.png和MOBILE_RESUME-ZHIHUA·WEI_ch.png图片文件。
 
