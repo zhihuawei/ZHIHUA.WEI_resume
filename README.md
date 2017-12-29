@@ -8,5 +8,15 @@
 - 此项目设计风格需感谢Christopher J. Molitor
 - 个人简历项目可直接下载，修改内容后部署使用
 - 项目在线演示地址：[http://resume.zhihuawei.xyz/](http://resume.zhihuawei.xyz/)
+- 如果大家比较喜欢此项目，请大家先Star一下，然后进行Clone下载
+
+## 项目下载
+
+使用git从本人[zhihua_wei](https://gitee.com/zhihua_wei)主页下载项目
+
+```bash
+git clone https://gitee.com/zhihua_wei/ZHIHUA.WEI_resume.git
+```
+
 
 
