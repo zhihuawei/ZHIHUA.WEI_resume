@@ -30,11 +30,11 @@ git clone https://gitee.com/zhihua_wei/ZHIHUA.WEI_resume.git
 
 ![](assets/PC_RESUME-ZHIHUA·WEI_en.png)
 
-### 英文版-移动端
-
-![](assets/MOBILE_RESUME-ZHIHUA·WEI_en.png)
-
-#### 中文版-PC端
+### 中文版-PC端
 
 ![](assets/PC_RESUME-ZHIHUA·WEI_ch.png)
+
+### 英文版-移动端
+### 中文版-移动端
+移动端就不展示了，图片太长，大家看着不舒服。如果大家很想看下效果图就访问一下我的在线演示地址就好了：[RESUME-ZHIHUA·WEI](http://resume.zhihuawei.xyz/)
 
