@@ -5,7 +5,7 @@
 ## 项目基本信息
 
 - 此项目上的内容全是本人的真实信息，大家在使用时请不要直接复用
-- 此项目设计风格需感谢Christopher J. Molitor
+- 此项目设计风格布局来自于Christopher J. Molitor，非常感谢
 - 个人简历项目可直接下载，修改内容后部署使用
 - 项目在线演示地址：[http://resume.zhihuawei.xyz/](http://resume.zhihuawei.xyz/)
 - 如果大家比较喜欢此项目，请大家先Star一下，然后进行Clone下载
@@ -22,6 +22,7 @@ git clone https://gitee.com/zhihua_wei/ZHIHUA.WEI_resume.git
 ## 项目作者
 
 也就是本人，大家可以直接从简历中了解，幸会幸会......
+
 
 ## 项目展示
 
