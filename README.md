@@ -26,3 +26,6 @@ git clone https://gitee.com/zhihua_wei/ZHIHUA.WEI_resume.git
 
 ## 项目展示
 
+### 英文版-PC端
+
+![](assets/PC_RESUME-ZHIHUA·WEI_en.png)
