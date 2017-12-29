@@ -18,5 +18,7 @@
 git clone https://gitee.com/zhihua_wei/ZHIHUA.WEI_resume.git
 ```
 
+## 项目作者
 
+也就是本人，大家可以直接从简历中了解，幸会幸会......
 
