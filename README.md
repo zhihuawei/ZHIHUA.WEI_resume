@@ -7,5 +7,6 @@
 - 此项目上的内容全是本人的真实信息，大家在使用时请不要直接复用
 - 此项目设计风格需感谢Christopher J. Molitor
 - 个人简历项目可直接下载，修改内容后部署使用
+- 项目在线演示地址：[http://resume.zhihuawei.xyz/](http://resume.zhihuawei.xyz/)
 
 
