@@ -22,7 +22,7 @@ git clone https://gitee.com/zhihua_wei/ZHIHUA.WEI_resume.git
 ## 项目作者
 
 也就是本人，大家可以直接从简历中了解，幸会幸会......
-
+衷心祝愿各位小伙伴可以通过使用这份简历，都能找到满意的工作！！
 
 ## 项目展示
 
