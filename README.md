@@ -8,6 +8,7 @@
 - 此项目设计风格布局来自于Christopher J. Molitor，非常感谢
 - 个人简历项目可直接下载，修改内容后部署使用
 - 项目在线演示地址：[http://resume.zhihuawei.xyz/](http://resume.zhihuawei.xyz/)
+- Pages 服务地址：
 - 如果大家比较喜欢此项目，请大家先Star一下，然后进行Clone下载
 - 此项目可同时支持PC端和移动端浏览，自适应布局，非常友好
 
